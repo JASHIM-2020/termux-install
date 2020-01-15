@@ -1,5 +1,7 @@
 After install Termux
-Then install it
+Then Run it
 sh install.sh
+
+Injoy my all friend
 
 
