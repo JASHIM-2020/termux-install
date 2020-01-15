@@ -62,6 +62,7 @@ apt install libandroid-support
 gem install lolcat
 pkg update
 pkg upgrade
+pkg install tsu
 pkg install root-repo
 pkg install bash
 pkg install libcurl
