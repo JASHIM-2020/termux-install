@@ -1,15 +1,20 @@
 apt install apt
-apt install bashapt install ca-certificates
-apt install command-not-foundapt install dash
+apt install bc
+apt install bash
+apt install zip
+apt install dash
 apt install dpkg
-apt install game-repo
 apt install gpgv
-apt install libandroid-support
 apt install libbz2
-apt install libc++apt install libcurl
-apt install libgcryptapt install libgpg-error
-apt install libiconvapt install liblzma
-apt install libnghttp2apt install ncurses
+apt install libc++
+apt install libcurl
+apt install libgcrypt
+apt install curl
+apt install game-repo
+apt install libiconv
+apt install liblzma
+apt install libnghttp2
+apt install ncurses
 apt install openssl
 apt install readline
 apt install scienc-repo
@@ -18,35 +23,43 @@ apt install termux-exec
 apt install termux-keyring
 apt install termux-licenses
 apt install termux-tools
-apt install zlibapt install tmuxpt
-apt install pythonapt install python2
-apt install gitapt install wget
-apt install w3mapt install perl
+apt install zlib
+apt install tmuxpt
+apt install python
+apt install python2
+apt install git
+apt install wget
+apt install w3m
+apt install perl
 apt install clang
 apt install curl
 apt install make
 apt install openssl-tool
 apt install util-linux
-apt install nanoapt install ruby
+apt install nano
+apt install ruby
 apt install hydra
 apt install moon-buggy
-apt install texinfoapt install dnsutils
+apt install texinfo
+apt install dnsutils
 apt install netcat
 apt install nmap
 apt install vim
-apt install neofetch
+apt install grep
 apt install cowsay
 apt install toilet
 gem install lolcat
-apt install ncurses-utils
-apt install zipapt install dirmngr
-pkg install gitpkg install python2
-pkg install ruby
 apt-get install git
-apt install curl
-apt install grep
-apt install bc
+apt install neofetch
+apt install dirmngr
+apt install libgpg-error
 apt install ncurses-utils
+apt install command-not-found
+apt install libandroid-support
+pkg install git
+apt install ca-certificates
+pkg install ruby
+pkg install python2
 pip2 install requests
 pip2 install bs4
 pip2 install mechanize
