@@ -92,6 +92,7 @@ pip install pinax-messages
 pip2 install beautifulsoup4
 pip2 install django-social-auth
 pip2 install requests pexpect passlib
+git clone https://gitlab.com/st42/termux-sudo
 
 
 
