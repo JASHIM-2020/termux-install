@@ -1,1 +1,70 @@
-apt install aptapt install bashapt install ca-certificatesapt install command-not-foundapt install dashapt install dpkgapt install game-repoapt install gpgvapt install libandroid-supportapt install libbz2apt install libc++apt install libcurlapt install libgcryptapt install libgpg-errorapt install libiconvapt install liblzmaapt install libnghttp2apt install ncursesapt install opensslapt install readlineapt install scienc-repoapt install termux-amapt install termux-execapt install termux-keyringapt install termux-licensesapt install termux-toolsapt install zlibapt install tmuxptapt install pythonapt install python2apt install gitapt install wgetapt install w3mapt install perlapt install clangapt install curlapt install makeapt install openssl-toolapt install util-linuxapt install nanoapt install rubyapt install hydraapt install moon-buggyapt install texinfoapt install dnsutilsapt install netcatapt install nmapapt install vimapt install neofetchapt install cowsayapt install toiletgem install lolcatapt install ncurses-utilsapt install zipapt install dirmngrpkg install gitpkg install python2pkg install rubygem install lolcatapt-get install gitapt install curlapt install grepapt install bcapt install ncurses-utilspip2 install requestspip2 install bs4pip2 install mechanizepip2 install beautifulsoup4pip2 install dnspythonpip2 install scapypip2 install seleniumpip2 install coloramapip2 install oauth2pip2 install Flask-OAUthpip2 install requests pexpect passlibpip2 install rsapip2 install gttspip2 install lxmlpip2 install googletranspip2 install django-social-authpip2 install Facebook-WebBotpip2 install fbchatpip2 install Whatportispip install pip toolspip install pinax-stripepip install pinax-messagespip install seleniumpip2 install --upgrade
+apt install apt
+apt install bashapt install ca-certificates
+apt install command-not-foundapt install dash
+apt install dpkg
+apt install game-repo
+apt install gpgv
+apt install libandroid-support
+apt install libbz2
+apt install libc++apt install libcurl
+apt install libgcryptapt install libgpg-error
+apt install libiconvapt install liblzma
+apt install libnghttp2apt install ncurses
+apt install openssl
+apt install readline
+apt install scienc-repo
+apt install termux-am
+apt install termux-exec
+apt install termux-keyring
+apt install termux-licenses
+apt install termux-tools
+apt install zlibapt install tmuxpt
+apt install pythonapt install python2
+apt install gitapt install wget
+apt install w3mapt install perl
+apt install clang
+apt install curl
+apt install make
+apt install openssl-tool
+apt install util-linux
+apt install nanoapt install ruby
+apt install hydra
+apt install moon-buggy
+apt install texinfoapt install dnsutils
+apt install netcat
+apt install nmap
+apt install vim
+apt install neofetch
+apt install cowsay
+apt install toilet
+gem install lolcat
+apt install ncurses-utils
+apt install zipapt install dirmngr
+pkg install gitpkg install python2
+pkg install ruby
+apt-get install git
+apt install curl
+apt install grep
+apt install bc
+apt install ncurses-utils
+pip2 install requests
+pip2 install bs4
+pip2 install mechanize
+pip2 install beautifulsoup4
+pip2 install dnspython
+pip2 install scapy
+pip2 install selenium
+pip2 install colorama
+pip2 install oauth2
+pip2 install Flask-OAUth
+pip2 install requests pexpect passlib
+pip2 install rsapip2 install gtts
+pip2 install lxmlpip2 install googletrans
+pip2 install django-social-auth
+pip2 install Facebook-WebBot
+pip2 install fbchat
+pip2 install Whatportis
+pip install pinax-stripe
+pip install pinax-messages
+pip install selenium
+pip2 install --upgrade
