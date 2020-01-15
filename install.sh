@@ -72,6 +72,7 @@ pkg install ruby
 pkg install python
 pkg install python2
 pkg install openssh
+pkg install figlet
 pip insyall pint
 pip2 install bs4
 pip2 install rsa
