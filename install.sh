@@ -77,7 +77,6 @@ pip2 install gtts
 pip2 install scapy
 pip2 install fbchat
 pip2 install oauth2
-pip install pip tools
 pip2 install requests
 pip2 install colorama
 pip2 install selenium
