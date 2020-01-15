@@ -73,13 +73,11 @@ pip2 install Flask-OAUth
 pip2 install requests pexpect passlib
 pip2 install rsa
 pip2 install gtts
-pip2 install lxml
 pip2 install googletrans
 pip2 install django-social-auth
-pip2 install Facebook-WebBot
 pip2 install fbchat
 pip2 install Whatportis
 pip install pinax-stripe
 pip install pinax-messages
-pip install selenium
+pip2 install selenium
 
