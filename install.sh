@@ -94,7 +94,7 @@ pip2 install beautifulsoup4
 pip2 install django-social-auth
 pip2 install requests pexpect passlib
 git clone https://gitlab.com/st42/termux-sudo
-cd
+cd termux-sudo
 cp sudo /data/data/com.termux/files/usr/bin
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
