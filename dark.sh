@@ -1,4 +1,3 @@
-git clone https://github.com/jashim2018/1
 git clone https://github.com/jashim2018/2
 git clone https://github.com/jashim2018/3
 git clone https://github.com/jashim2018/4
