@@ -1,5 +1,5 @@
-apt install update
-apt install upgrade
+apt update
+apt upgrade
 apt install bc
 apt install apt
 apt install vim
