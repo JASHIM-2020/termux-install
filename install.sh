@@ -98,3 +98,5 @@ cd termux-sudo
 cp sudo /data/data/com.termux/files/usr/bin
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
+cd /data/data/com.termux/files/home
+mkdir .suroot
