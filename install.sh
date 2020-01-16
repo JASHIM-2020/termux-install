@@ -72,6 +72,7 @@ pkg install python
 pkg install python2 
 pkg install openssh 
 pkg install figlet 
+pkg install ncurses-utils 
 pip install pint 
 pip2 install bs4 
 pip2 install rsa 
@@ -88,7 +89,6 @@ pip2 install Whatportis
 pip2 install Flask-OAUth 
 pip install pinax-stripe 
 pip2 install googletrans 
-pip install ncurses-utils 
 pip install pinax-messages 
 pip2 install beautifulsoup4 
 pip2 install django-social-auth 
