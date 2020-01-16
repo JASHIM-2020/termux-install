@@ -59,15 +59,15 @@ apt install ca-certificates -y
 apt install termux-licenses -y
 pkg install ncurses-utils -y
 apt install command-not-found -y
-apt install libandroid-support-y
-gem install lolcat-y
+apt install libandroid-support -y
+gem install lolcat -y
 pkg update -y
 pkg upgrade -y
 pkg install tsu -y
 pkg install bash -y
 pkg install libcurl -y
 pkg install php -y
-pkg install ruby-y
+pkg install ruby -y
 pkg install python -y
 pkg install python2 -y
 pkg install openssh -y
