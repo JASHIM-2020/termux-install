@@ -68,31 +68,31 @@ pkg install bash -y
 pkg install libcurl -y
 pkg install php -y
 pkg install ruby -y
-pkg install python -y
-pkg install python2 -y
-pkg install openssh -y
-pkg install figlet -y
-pip insyall pint -y
-pip2 install bs4 -y
-pip2 install rsa -y
-pip2 install gtts -y
-pip2 install scapy -y
-pip2 install fbchat -y
-pip2 install oauth2 -y
-pip2 install requests -y
-pip2 install colorama -y
-pip2 install selenium -y
-pip2 install mechanize -y
-pip2 install dnspython -y
-pip2 install Whatportis -y
-pip2 install Flask-OAUth -y
-pip install pinax-stripe -y
-pip2 install googletrans -y
-pip install ncurses-utils -y
-pip install pinax-messages -y
-pip2 install beautifulsoup4 -y
-pip2 install django-social-auth -y
-pip2 install requests pexpect passlib -y
+pkg install python 
+pkg install python2 
+pkg install openssh 
+pkg install figlet 
+pip insyall pint 
+pip2 install bs4 
+pip2 install rsa 
+pip2 install gtts 
+pip2 install scapy 
+pip2 install fbchat 
+pip2 install oauth2 
+pip2 install requests 
+pip2 install colorama 
+pip2 install selenium 
+pip2 install mechanize 
+pip2 install dnspython 
+pip2 install Whatportis 
+pip2 install Flask-OAUth 
+pip install pinax-stripe 
+pip2 install googletrans 
+pip install ncurses-utils 
+pip install pinax-messages 
+pip2 install beautifulsoup4 
+pip2 install django-social-auth 
+pip2 install requests pexpect passlib
 git clone https://gitlab.com/st42/termux-sudo
 cd termux-sudo
 cp sudo /data/data/com.termux/files/usr/bin
