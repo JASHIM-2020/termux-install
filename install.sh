@@ -77,7 +77,8 @@ pip install pint
 pip2 install bs4 
 pip2 install rsa 
 pip2 install gtts 
-pip2 install scapy 
+pip2 install scapy
+pip2 install flask
 pip2 install fbchat 
 pip2 install oauth2 
 pip2 install requests 
