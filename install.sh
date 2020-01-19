@@ -79,11 +79,13 @@ pip2 install rsa
 pip2 install gtts 
 pip2 install scapy
 pip2 install flask
+pip2 install future
 pip2 install fbchat 
 pip2 install oauth2 
 pip2 install requests 
 pip2 install colorama 
 pip2 install selenium 
+pip2 install paramiko
 pip2 install mechanize 
 pip2 install dnspython 
 pip2 install Whatportis 
@@ -91,6 +93,9 @@ pip2 install Flask-OAUth
 pip install pinax-stripe 
 pip2 install googletrans 
 pip install pinax-messages 
+pip2 install pycryptodome
+pip2 install requests==2.21.0
+pip2 install pysnmp==4.4.6
 pip2 install beautifulsoup4 
 pip2 install django-social-auth 
 pip2 install requests pexpect passlib
