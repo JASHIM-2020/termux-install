@@ -67,6 +67,7 @@ pkg install tsu
 pkg install bash 
 pkg install libcurl 
 pkg install php 
+pkg install tor
 pkg install ruby 
 pkg install python 
 pkg install python2 
