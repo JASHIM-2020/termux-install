@@ -35,6 +35,7 @@ apt install texinfo
 apt install libcurl 
 apt install ncurses 
 apt install openssl 
+pkg install aircrack-ng
 apt install openssl-tool 
 apt install liblzma 
 apt install python2 
